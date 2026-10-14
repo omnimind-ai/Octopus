@@ -1,6 +1,4 @@
-# Octopus
-
-**Octopus: Unlocking SSD Parallelism for Sparse KVCache Retrieval**
+# Octopus: Unlocking SSD Parallelism for Sparse KVCache Retrieval
 
 ## Requirement
 
